@@ -2,10 +2,9 @@
 
 In this task, the distribution of both categorical and continuous variables was visualized using histograms and bar charts. A simulated population dataset was generated, including attributes such as age, gender, and education level. Histograms were used to display the distribution of age, while bar charts were created to represent the frequency of different gender and education categories. Additionally, grouped visualizations, such as age distribution by gender, were produced to highlight relationships between variables.
 
-Features of the Task:
+## _Features of the Task:_
 
-A synthetic population dataset was created with attributes like:
-
+### A synthetic population dataset was created with attributes like:
 -Age (continuous variable)
 
 -Gender and Education Level (categorical variables)
